@@ -9,6 +9,3 @@ for port in ports:
 	if code == 0:
 		print(port, "PORT OPEN")
 
-
-		
-#discord for help:  G.#4179
